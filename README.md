@@ -2,8 +2,10 @@
 
 
 #########################################
+
 Code Format: YAML
 Tech Stack: Cloudformation + Jenkins
+
 ##########################################
 
 This project uses Jenkins pipeline to deploy 3 stacks:
@@ -13,5 +15,7 @@ This project uses Jenkins pipeline to deploy 3 stacks:
 
 Note: Make sure the Jenkins server has basic plugins and aws cli installed
 
-Refer Mediawiki app repository (https://github.com/shekharsanatan92/mediawiki-eks-proj-app.git) for information on installation & configuration
+Refer the below Mediawiki app repository for information on installation & configuration:
+https://github.com/shekharsanatan92/mediawiki-eks-proj-app.git
+
 ##########################################
